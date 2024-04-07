@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="latest-schema.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/latest-schema.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="55ce0b0a-1d8b-44f8-b7b3-b8557788e8b0" namespace="database/&quot;defaultdb&quot;/schema/&quot;public&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
